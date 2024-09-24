@@ -1,0 +1,61 @@
+
+===== Resultados do Benchmark =====
+Tipo de Criptografia: Kyber-512
+Quantidade de execuções: 100
+Tempo total: 3.9417 segundos
+Consumo máximo de CPU: 26.0375%
+Consumo máximo de Memória: 0.0000 MiB
+Média de consumo de CPU: 10.9159%
+Média de consumo de Memória: 0.0000 MiB
+=====================================
+
+===== Resultados do Benchmark =====
+Tipo de Criptografia: Kyber-768
+Quantidade de execuções: 100
+Tempo total: 6.2780 segundos
+Consumo máximo de CPU: 26.0375%
+Consumo máximo de Memória: 0.0273 MiB
+Média de consumo de CPU: 10.7154%
+Média de consumo de Memória: 0.0002 MiB
+=====================================
+
+===== Resultados do Benchmark =====
+Tipo de Criptografia: Kyber-1024
+Quantidade de execuções: 100
+Tempo total: 9.1690 segundos
+Consumo máximo de CPU: 18.9000%
+Consumo máximo de Memória: 0.0273 MiB
+Média de consumo de CPU: 10.1397%
+Média de consumo de Memória: 0.0005 MiB
+=====================================
+
+===== Resultados do Benchmark =====
+Tipo de Criptografia: Kyber-512
+Quantidade de execuções: 100
+Tempo total: 4.5973 segundos
+Consumo máximo de CPU: 36.6250%
+Consumo máximo de Memória: 0.0703 MiB
+Média de consumo de CPU: 9.0262%
+Média de consumo de Memória: 0.0008 MiB
+=====================================
+
+===== Resultados do Benchmark =====
+Tipo de Criptografia: Kyber-768
+Quantidade de execuções: 100
+Tempo total: 7.2055 segundos
+Consumo máximo de CPU: 24.4125%
+Consumo máximo de Memória: 0.0117 MiB
+Média de consumo de CPU: 8.3556%
+Média de consumo de Memória: 0.0001 MiB
+=====================================
+
+===== Resultados do Benchmark =====
+Tipo de Criptografia: Kyber-1024
+Quantidade de execuções: 100
+Tempo total: 10.2172 segundos
+Consumo máximo de CPU: 18.9000%
+Consumo máximo de Memória: 0.0156 MiB
+Média de consumo de CPU: 8.3313%
+Média de consumo de Memória: 0.0002 MiB
+=====================================
+

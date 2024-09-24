@@ -1,0 +1,17 @@
+# Use a imagem base do Python
+FROM python:3.10-slim
+
+# Defina o diretório de trabalho dentro do container
+WORKDIR /app
+
+# Copie todos os arquivos do diretório local para o diretório de trabalho do container
+COPY . /app
+
+# Instale as dependências do Python se existir um arquivo requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Exponha a porta se necessário
+# EXPOSE 8080
+
+# Comando padrão para iniciar o container
+CMD ["python", "main.py"]

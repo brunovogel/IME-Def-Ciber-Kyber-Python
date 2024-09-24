@@ -1,0 +1,3102 @@
+
+
+Teste do script: test_ccakem.py
+Número de execuções: 100
+=============================================
+Execução 1:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.03 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 2:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 3:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 4:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 5:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.04%
+---------------------------------------------
+Execução 6:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 7:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 8:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 9:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 10:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 11:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 12:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 13:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.05%
+---------------------------------------------
+Execução 14:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 15:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 16:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 17:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 18:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 19:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 20:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 21:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 22:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 23:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 24:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.05%
+---------------------------------------------
+Execução 25:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 26:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 27:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 28:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 29:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 30:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.96%
+---------------------------------------------
+Execução 31:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 32:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 33:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 34:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 35:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 36:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.90%
+---------------------------------------------
+Execução 37:
+  Tempo de execução: 0.26 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 38:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 39:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 40:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 41:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.89%
+---------------------------------------------
+Execução 42:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 43:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 44:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 45:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 46:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 47:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 48:
+  Tempo de execução: 0.22 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 49:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 50:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 51:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 52:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 53:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 54:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.04%
+---------------------------------------------
+Execução 55:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 56:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 57:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 58:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 59:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 60:
+  Tempo de execução: 0.25 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 61:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 62:
+  Tempo de execução: 0.22 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 63:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 64:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 65:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 66:
+  Tempo de execução: 0.22 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 67:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 68:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 69:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 70:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 71:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 72:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 73:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.96%
+---------------------------------------------
+Execução 74:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 75:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 76:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 77:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 78:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 79:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 80:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 81:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 82:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 83:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 84:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 85:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.05%
+---------------------------------------------
+Execução 86:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 87:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 88:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 89:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 90:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.04%
+---------------------------------------------
+Execução 91:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 92:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.04%
+---------------------------------------------
+Execução 93:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 94:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.04%
+---------------------------------------------
+Execução 95:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 96:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 97:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 98:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.04%
+---------------------------------------------
+Execução 99:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 100:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.04%
+---------------------------------------------
+
+Resultados após 100 execuções:
+Tempo total de execução: 19.82 segundos
+Tempo médio de execução: 0.20 segundos
+Memória máxima utilizada: 0.03 MiB
+Memória média utilizada: 0.00 MiB
+CPU máxima utilizada: 1.14%
+CPU média utilizada: 0.15%
+
+Resultado da última execução:
+
+=============================================
+
+
+Teste do script: test_cpake.py
+Número de execuções: 100
+=============================================
+Execução 1:
+  Tempo de execução: 0.42 segundos
+  Memória utilizada: 0.01 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 2:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 3:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 4:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 5:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 6:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 7:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 8:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 9:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 10:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 11:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 12:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 13:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 14:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 15:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 16:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 17:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 18:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 19:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 20:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 21:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 22:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 23:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 24:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 25:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 26:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 27:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 28:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 29:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 30:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 31:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 32:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 33:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 34:
+  Tempo de execução: 0.22 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 35:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 36:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 37:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 38:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 39:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 40:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 41:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 42:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 43:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 44:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 45:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 46:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 47:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 48:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 49:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 50:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 51:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 52:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 53:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 54:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 55:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 56:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 57:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 58:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 59:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 60:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 61:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 62:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 63:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 64:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 65:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 66:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 67:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: -0.01 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 68:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 69:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 70:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 71:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 72:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 73:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 74:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 75:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 76:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 77:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 78:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 79:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 80:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 81:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 82:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 83:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 84:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 85:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 86:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 87:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 88:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 89:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 90:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 91:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 92:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 93:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 94:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 95:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 96:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 97:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 98:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 99:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 100:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+
+Resultados após 100 execuções:
+Tempo total de execução: 18.46 segundos
+Tempo médio de execução: 0.18 segundos
+Memória máxima utilizada: 0.01 MiB
+Memória média utilizada: 0.00 MiB
+CPU máxima utilizada: 1.25%
+CPU média utilizada: 0.07%
+
+Resultado da última execução:
+
+=============================================
+
+
+Teste do script: test_indcpa.py
+Número de execuções: 100
+=============================================
+Execução 1:
+  Tempo de execução: 0.41 segundos
+  Memória utilizada: 0.01 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 2:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 3:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 4:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 5:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 6:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 7:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 8:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 9:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 10:
+  Tempo de execução: 0.22 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 11:
+  Tempo de execução: 0.25 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 12:
+  Tempo de execução: 0.25 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 13:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 14:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 15:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 16:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 17:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 18:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 19:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 20:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 21:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 22:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 23:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 24:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 25:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 26:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 27:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 28:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 29:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 30:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 31:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 32:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 33:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 34:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 35:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 36:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 37:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 38:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 39:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 40:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 41:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 42:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 43:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 44:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 45:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 46:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 47:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 48:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 49:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 50:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 51:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 52:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 53:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 54:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 55:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.04%
+---------------------------------------------
+Execução 56:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 57:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 58:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 59:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 60:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 61:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 62:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 63:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 64:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 65:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 66:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 67:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 68:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 69:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 70:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 71:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 72:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 73:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 74:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 75:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 76:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 77:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 78:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 79:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 80:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 81:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 82:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 83:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 84:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 85:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 86:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 87:
+  Tempo de execução: 0.20 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.96%
+---------------------------------------------
+Execução 88:
+  Tempo de execução: 0.26 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 89:
+  Tempo de execução: 0.22 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 90:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 91:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 92:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.82%
+---------------------------------------------
+Execução 93:
+  Tempo de execução: 0.25 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 94:
+  Tempo de execução: 0.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.66%
+---------------------------------------------
+Execução 95:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 96:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: -0.01 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 97:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 98:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 99:
+  Tempo de execução: 0.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 100:
+  Tempo de execução: 0.21 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+
+Resultados após 100 execuções:
+Tempo total de execução: 19.49 segundos
+Tempo médio de execução: 0.19 segundos
+Memória máxima utilizada: 0.01 MiB
+Memória média utilizada: 0.00 MiB
+CPU máxima utilizada: 1.66%
+CPU média utilizada: 0.07%
+
+Resultado da última execução:
+
+=============================================
+
+
+Teste do script: test_ntt.py
+Número de execuções: 100
+=============================================
+Execução 1:
+  Tempo de execução: 1.43 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 2:
+  Tempo de execução: 1.42 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 3:
+  Tempo de execução: 1.24 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 4:
+  Tempo de execução: 1.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 5:
+  Tempo de execução: 1.23 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 6:
+  Tempo de execução: 1.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 7:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 8:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 9:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 10:
+  Tempo de execução: 1.10 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 11:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 12:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.17%
+---------------------------------------------
+Execução 13:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 14:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 15:
+  Tempo de execução: 1.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 16:
+  Tempo de execução: 1.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 17:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 18:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 19:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 20:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 21:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.01 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 22:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 23:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 24:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 25:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 26:
+  Tempo de execução: 1.10 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 27:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.17%
+---------------------------------------------
+Execução 28:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 29:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 30:
+  Tempo de execução: 1.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 31:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 32:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 33:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 34:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 35:
+  Tempo de execução: 1.10 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 36:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 37:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 38:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.17%
+---------------------------------------------
+Execução 39:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 40:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 41:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: -0.01 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 42:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 43:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 44:
+  Tempo de execução: 1.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 45:
+  Tempo de execução: 1.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 46:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 47:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 48:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 49:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 50:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 51:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 52:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 53:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 54:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 55:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 56:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 57:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 58:
+  Tempo de execução: 1.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 59:
+  Tempo de execução: 1.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 60:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 61:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 62:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.17%
+---------------------------------------------
+Execução 63:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 64:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 65:
+  Tempo de execução: 1.60 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 66:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 67:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 68:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 69:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 70:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 71:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 72:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.17%
+---------------------------------------------
+Execução 73:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 74:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.17%
+---------------------------------------------
+Execução 75:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 76:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: -0.02 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 77:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 78:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 79:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 80:
+  Tempo de execução: 1.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.17%
+---------------------------------------------
+Execução 81:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 82:
+  Tempo de execução: 1.10 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 83:
+  Tempo de execução: 1.10 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 84:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 85:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.17%
+---------------------------------------------
+Execução 86:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 87:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 88:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 89:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 90:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 91:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 92:
+  Tempo de execução: 1.14 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 93:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 94:
+  Tempo de execução: 1.12 segundos
+  Memória utilizada: 0.02 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 95:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 96:
+  Tempo de execução: 1.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 97:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 98:
+  Tempo de execução: 1.11 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 99:
+  Tempo de execução: 1.13 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 100:
+  Tempo de execução: 1.34 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+
+Resultados após 100 execuções:
+Tempo total de execução: 114.30 segundos
+Tempo médio de execução: 1.14 segundos
+Memória máxima utilizada: 0.02 MiB
+Memória média utilizada: 0.00 MiB
+CPU máxima utilizada: 0.17%
+CPU média utilizada: 0.01%
+
+Resultado da última execução:
+
+=============================================
+
+
+Teste do script: test_prf.py
+Número de execuções: 100
+=============================================
+Execução 1:
+  Tempo de execução: 0.77 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 2:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 3:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 4:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 5:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 6:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 7:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 8:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 9:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 10:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 11:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 12:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 13:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 14:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 15:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 16:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 17:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 18:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 19:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 20:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 21:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 22:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 23:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 24:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 25:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 26:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 27:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 28:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 29:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 30:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 31:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 32:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 33:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 34:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 35:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 36:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 37:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 38:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 39:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 40:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 41:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 42:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 43:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 44:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 45:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 46:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 47:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 48:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 49:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 50:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 51:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 52:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 53:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 54:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 55:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 56:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 57:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 58:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 59:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 60:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 61:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 62:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 63:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 64:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 65:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 66:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 67:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 68:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 69:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 70:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 71:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 72:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 73:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 74:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.39%
+---------------------------------------------
+Execução 75:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 76:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 77:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 78:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 79:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 80:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 81:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 82:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 83:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.01 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 84:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 85:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 86:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 87:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 88:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 89:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 90:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 91:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 92:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 93:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 94:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 95:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 96:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 97:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 98:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 99:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 100:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+
+Resultados após 100 execuções:
+Tempo total de execução: 16.27 segundos
+Tempo médio de execução: 0.16 segundos
+Memória máxima utilizada: 0.01 MiB
+Memória média utilizada: 0.00 MiB
+CPU máxima utilizada: 1.39%
+CPU média utilizada: 0.20%
+
+Resultado da última execução:
+
+=============================================
+
+
+Teste do script: test_util.py
+Número de execuções: 100
+=============================================
+Execução 1:
+  Tempo de execução: 0.37 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 2:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 3:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 4:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 5:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 6:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 7:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 8:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 9:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 10:
+  Tempo de execução: 0.18 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 11:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 12:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 13:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 14:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 15:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 16:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 17:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 18:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 19:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 20:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 21:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 22:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 23:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 24:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 25:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 26:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 27:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 28:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 29:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 30:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 31:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 32:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 33:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 34:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 35:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 36:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: -0.01 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 37:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 38:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 39:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 40:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 41:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 42:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 43:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 44:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 45:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 46:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 47:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 48:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 49:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 50:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 51:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 52:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 53:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 54:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 55:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 56:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 57:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 58:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 59:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 60:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 61:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 62:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 63:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 64:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 65:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 66:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 67:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 68:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 69:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 70:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 71:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 72:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 73:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 74:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 75:
+  Tempo de execução: 0.19 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 76:
+  Tempo de execução: 0.17 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 77:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 78:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 79:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 80:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.25%
+---------------------------------------------
+Execução 81:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 82:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 83:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 84:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 85:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 86:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 87:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 88:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 89:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 90:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 91:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 92:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 93:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 94:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 95:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 96:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 97:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 98:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 1.14%
+---------------------------------------------
+Execução 99:
+  Tempo de execução: 0.16 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+Execução 100:
+  Tempo de execução: 0.15 segundos
+  Memória utilizada: 0.00 MiB
+  CPU utilizada: 0.00%
+---------------------------------------------
+
+Resultados após 100 execuções:
+Tempo total de execução: 15.85 segundos
+Tempo médio de execução: 0.16 segundos
+Memória máxima utilizada: 0.00 MiB
+Memória média utilizada: -0.00 MiB
+CPU máxima utilizada: 1.25%
+CPU média utilizada: 0.16%
+
+Resultado da última execução:
+
+=============================================
